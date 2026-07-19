@@ -17,9 +17,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=00D4FF&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&color=00D4FF&logo=github" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=NandaAungShine&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NandaAungShine?style=flat-square&color=00D4FF&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/NandaAungShine?style=flat-square&color=00D4FF&logo=github" alt="GitHub Stars" />
 </p>
 
 <!-- ==========================================================================
@@ -30,7 +30,7 @@
   <tr>
     <td width="50%" valign="top">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> About Me
+## 👨‍💻 About Me
 
 I'm a **Junior Full-Stack Developer** & **UI/UX Designer** with a growing passion for **Offensive Cybersecurity**. I build scalable web applications, craft pixel-perfect interfaces, and continuously expand my technical toolkit.
 
@@ -43,7 +43,7 @@ I'm a **Junior Full-Stack Developer** & **UI/UX Designer** with a growing passio
     </td>
     <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0a0a1a&icon_color=00D4FF&title_color=00D4FF&text_color=e0e0e0" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NandaAungShine&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0a0a1a&icon_color=00D4FF&title_color=00D4FF&text_color=e0e0e0" width="100%" alt="GitHub Stats" />
 
     </td>
   </tr>
@@ -53,7 +53,7 @@ I'm a **Junior Full-Stack Developer** & **UI/UX Designer** with a growing passio
   TECH STACK
   ========================================================================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="28" /> Tech Stack
+## 🛠️ Tech Stack
 
 <!-- ----- Frontend ----- -->
 <h3 align="left">
@@ -125,20 +125,20 @@ I'm a **Junior Full-Stack Developer** & **UI/UX Designer** with a growing passio
   GITHUB STATISTICS
   ========================================================================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="28" /> GitHub Statistics
+## 📊 GitHub Statistics
 
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0a0a1a&icon_color=00D4FF&title_color=00D4FF&text_color=e0e0e0" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NandaAungShine&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0a0a1a&icon_color=00D4FF&title_color=00D4FF&text_color=e0e0e0" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=tokyonight&background=0a0a1a&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&stroke=00D4FF&currStreakNum=e0e0e0&sideNums=e0e0e0" width="100%" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandaAungShine&hide_border=true&theme=tokyonight&background=0a0a1a&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&stroke=00D4FF&currStreakNum=e0e0e0&sideNums=e0e0e0" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0a0a1a&color=00D4FF&line=00D4FF&point=00D4FF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NandaAungShine&bg_color=0a0a1a&color=00D4FF&line=00D4FF&point=00D4FF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
     </td>
   </tr>
 </table>
@@ -147,20 +147,20 @@ I'm a **Junior Full-Stack Developer** & **UI/UX Designer** with a growing passio
   CONNECT WITH ME
   ========================================================================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Handshake" width="28" /> Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/n-4-nda-536375379?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_TELEGRAM_URL" target="_blank">
+  <a href="https://t.me/hiitm" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/NandaAungShine" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:nandaaungshine7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -189,8 +189,4 @@ I'm a **Junior Full-Stack Developer** & **UI/UX Designer** with a growing passio
     - GitHub Activity Graph   : https://github.com/Ashutosh00710/github-readme-activity-graph
     - Typing SVG              : https://github.com/DenverCoder1/readme-typing-svg
     - Capsule Render          : https://github.com/kyechan99/capsule-render
-    - Emojis                  : https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
-
-  📝 Replace all "YOUR_GITHUB_USERNAME", "YOUR_LINKEDIN_URL", "YOUR_TELEGRAM_URL"
-     and email address with your actual information before deploying.
 -->
