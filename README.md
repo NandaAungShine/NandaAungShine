@@ -1,191 +1,20 @@
-<!--
-============================================================
-  GITHUB PROFILE README
-  Theme: Cyberpunk Blue
-  Designed for: Nanda Aung Shine
-  Version: 2.0 (Premium)
-============================================================
--->
+```markdown
+<!-- ============================================================ 🚀 GITHUB PROFILE README - NANDA AUNG SHINE Theme : Cyberpunk Blue (Tokyo Night) Design : Premium Creative Layout ============================================================ --><!-- ========== 1. TYPING HEADER ========== --><h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=Hi+there%2C+I'm+Nanda+Aung+Shine+%F0%9F%91%8B;Junior+Full‑Stack+Developer;UI%2FUX+Designer;Offensive+Security+Enthusiast" alt="Typing Header" /> </h1><!-- ========== 2. ROLE BADGES ========== --><p align="center"> <img src="https://img.shields.io/badge/Junior%20Full--Stack%20Developer-00D4FF?style=for-the-badge&logo=code&logoColor=white" /> <img src="https://img.shields.io/badge/UI%2FUX%20Designer-0A66C2?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Offensive%20Security%20Enthusiast-FF0055?style=for-the-badge&logo=kalilinux&logoColor=white" /> </p><!-- ========== 3. PROFILE VIEWS / FOLLOWERS / STARS ========== --><p align="center"> <img src="https://komarev.com/ghpvc/?username=NandaAungShine&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/NandaAungShine?style=flat-square&color=00D4FF&logo=github" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/NandaAungShine?style=flat-square&color=00D4FF&logo=github" alt="GitHub Stars" /> </p><!-- ============================================================ 4. ABOUT ME + STATS (SIDE‑BY‑SIDE) ============================================================ --><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="55%" valign="top">
+👨‍💻 About Me
 
-<!-- ========== TYPING HEADER ========== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=Hi+there%2C+I'm+Nanda+Aung+Shine+%F0%9F%91%8B;Junior+Full%E2%80%91Stack+Developer;UI%2FUX+Designer;Offensive+Security+Enthusiast" alt="Typing Header" />
-</h1>
+Hello! I am a Junior Full‑Stack Developer & UI/UX Designer driven by a strong passion for Offensive Cybersecurity. I specialize in engineering responsive, scalable web applications and crafting user‑centric digital products from concept to deployment.
 
-<!-- ========== BADGE ROW ========== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Junior%20Full--Stack%20Developer-00D4FF?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-0A66C2?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Offensive%20Security%20Enthusiast-FF0055?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
+Combining development logic with a security‑first mindset, I constantly aim to build applications that are not only highly functional and stunning but also robust against vulnerabilities.
 
-<!-- ========== PROFILE VIEWS / FOLLOWERS / STARS ========== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NandaAungShine&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NandaAungShine?style=flat-square&color=00D4FF&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/NandaAungShine?style=flat-square&color=00D4FF&logo=github" alt="GitHub Stars" />
-</p>
+    🌍 Career Focus: Actively seeking International Remote Employment & Freelance opportunities.
 
-<!-- ============================================================
-     ABOUT ME + STATS (side‑by‑side)
-     ============================================================ -->
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="top">
+    🏗️ Current Work: Crafting scalable full‑stack web apps and highly interactive, polished UIs.
 
-## 👨‍💻 About Me
+    📱 Mobile Development: Expanding into Flutter for cross‑platform mobile apps.
 
-I'm a **Junior Full-Stack Developer** & **UI/UX Designer** with a growing passion for **Offensive Cybersecurity**. I build scalable web applications, craft pixel‑perfect interfaces, and continuously expand my technical toolkit.
+    🛡️ Cybersecurity Enthusiast: Passionate about penetration testing, ethical hacking, and Linux (Parrot OS & Ubuntu).
 
-- 🌍 Open to **international remote employment** & **freelance** opportunities.
-- 🏗️ Building **scalable web apps** & **highly interactive UIs**.
-- 📱 Expanding into **Flutter** for cross‑platform mobile development.
-- 🛡️ Deeply interested in **penetration testing**, **ethical hacking**, and **Linux** (Parrot OS, Ubuntu).
-- 🎓 Pursuing a **Bachelor of Science in Computer Science**.
+    🎓 Education: Pursuing a Bachelor of Science in Computer Science.
+    </td> <td width="45%" align="center" valign="middle">
 
-    </td>
-    <td width="45%" align="center" valign="middle">
-
-<!-- GitHub Stats Card (Cyberpunk Blue / Tokyo Night) -->
-<img src="https://github-readme-stats.vercel.app/api?username=NandaAungShine&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0a0a1a&icon_color=00D4FF&title_color=00D4FF&text_color=e0e0e0&rank_icon=github" width="100%" alt="GitHub Stats" />
-
-    </td>
-  </tr>
-</table>
-
-<!-- ============================================================
-     TECH STACK (Badge Style)
-     ============================================================ -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<!-- ---------- FRONTEND ---------- -->
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-FRONTEND-0a0a1a?style=for-the-badge&logoColor=00D4FF&color=0a0a1a&labelColor=0a0a1a" />
-</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<!-- ---------- BACKEND & DATABASES ---------- -->
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-BACKEND%20%26%20DATABASES-0a0a1a?style=for-the-badge&logoColor=00D4FF&color=0a0a1a&labelColor=0a0a1a" />
-</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-<!-- ---------- DESIGN & PROTOTYPING ---------- -->
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-DESIGN%20%26%20PROTOTYPING-0a0a1a?style=for-the-badge&logoColor=00D4FF&color=0a0a1a&labelColor=0a0a1a" />
-</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
-</p>
-
-<!-- ---------- DEVOPS & TOOLS ---------- -->
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-DEVOPS%20%26%20TOOLS-0a0a1a?style=for-the-badge&logoColor=00D4FF&color=0a0a1a&labelColor=0a0a1a" />
-</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-2E7D32?style=for-the-badge&logo=parrot-security&logoColor=white" alt="Parrot OS" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
-
-<!-- ---------- SECURITY TOOLS ---------- -->
-<h3 align="left">
-  <img src="https://img.shields.io/badge/-SECURITY%20TOOLS-0a0a1a?style=for-the-badge&logoColor=00D4FF&color=0a0a1a&labelColor=0a0a1a" />
-</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-0E5B8C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-</p>
-
-<!-- ============================================================
-     GITHUB STATISTICS (Cards + Graph)
-     ============================================================ -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NandaAungShine&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0a0a1a&icon_color=00D4FF&title_color=00D4FF&text_color=e0e0e0&rank_icon=github" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandaAungShine&hide_border=true&theme=tokyonight&background=0a0a1a&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&stroke=00D4FF&currStreakNum=e0e0e0&sideNums=e0e0e0" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NandaAungShine&bg_color=0a0a1a&color=00D4FF&line=00D4FF&point=00D4FF&area=true&hide_border=true&custom_title=Nanda%20Aung%20Shine's%20Contribution%20Graph" width="100%" alt="GitHub Activity Graph" />
-    </td>
-  </tr>
-</table>
-
-<!-- ============================================================
-     CONNECT WITH ME (BIG BUTTONS)
-     ============================================================ -->
-<h2 align="center">🤝 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/n-4-nda-536375379?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" width="140" />
-  </a>
-  <a href="https://t.me/hiitm" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30" alt="Telegram" width="140" />
-  </a>
-  <a href="https://github.com/NandaAungShine" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub" width="140" />
-  </a>
-  <a href="mailto:nandaaungshine7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Gmail" width="140" />
-  </a>
-</p>
-
-<!-- ============================================================
-     FOOTER WAVE + TYPING QUOTE
-     ============================================================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
-</p>
-
-<p align="center">
-  <i>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=%22Code.+Design.+Secure.%22;%22Building+the+future%2C+one+line+at+a+time.%22;%22Always+learning%2C+always+evolving.%22" alt="Typing Footer" />
-  </i>
-</p>
-
-<!-- ============================================================
-     CREDITS
-     ============================================================ -->
-<!--
-  🛠️ Built with:
-    - GitHub Readme Stats     : https://github.com/anuraghazra/github-readme-stats
-    - GitHub Streak Stats     : https://github.com/DenverCoder1/github-readme-streak-stats
-    - GitHub Activity Graph   : https://github.com/Ashutosh00710/github-readme-activity-graph
-    - Typing SVG              : https://github.com/DenverCoder1/readme-typing-svg
-    - Capsule Render          : https://github.com/kyechan99/capsule-render
--->
+<!-- GitHub Stats Card (Cyberpunk Blue) --><img src="https://github-readme-stats.shion.dev/api?username=NandaAungShine&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&icon_color=00D4FF&title_color=00D4FF&text_color=e0e0e0&bg_color=0a0a1a" width="100%" alt="GitHub Stats" /> </td> </tr> </table><!-- ============================================================ 5. TECH STACK (CATEGORIZED BADGES) ============================================================ --><h2 align="center">💻 Tech Stack</h2><!-- ----- FRONTEND ----- --><h3 align="left"> <img src="https://img.shields.io/badge/-FRONTEND-0a0a1a?style=for-the-badge&logoColor=00D4FF&color=0a0a1a&labelColor=0a0a1a" /> </h3><p align="left"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </p><!-- ----- BACKEND & DATABASES ----- --><h3 align="left"> <img src="https://img.shields.io/badge/-BACKEND%20%26%20DATABASES-0a0a1a?style=for-the-badge&logoColor=00D4FF&color=0a0a1a&labelColor=0a0a1a" /> </h3><p align="left"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /> </p><!-- ----- DESIGN & PROTOTYPING ----- --><h3 align="left"> <img src="https://img.shields.io/badge/-DESIGN%20%26%20PROTOTYPING-0a0a1a?style=for-the-badge&logoColor=00D4FF&color=0a0a1a&labelColor=0a0a1a" /> </h3><p align="left"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" /> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" /> <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" /> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" /> <img src="https://img.shields.io/badge/Affinity%20Designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="Affinity Designer" /> <img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" alt="Affinity Photo" /> </p><!-- ----- DEVOPS & TOOLS ----- --><h3 align="left"> <img src="https://img.shields.io/badge/-DEVOPS%20%26%20TOOLS-0a0a1a?style=for-the-badge&logoColor=00D4FF&color=0a0a1a&labelColor=0a0a1a" /> </h3><p align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Parrot%20OS-2E7D32?style=for-the-badge&logo=parrot-security&logoColor=white" alt="Parrot OS" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /> <img src="https://img.shields.io/badge/Nmap-0E5B8C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" /> <img src="https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /> </p><!-- ============================================================ 6. GITHUB STATISTICS (GRID LAYOUT) ============================================================ --><h2 align="center">📊 GitHub Statistics</h2><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="50%" align="center"> <img src="https://github-readme-stats.shion.dev/api?username=NandaAungShine&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&icon_color=00D4FF&title_color=00D4FF&text_color=e0e0e0&bg_color=0a0a1a" width="100%" alt="GitHub Stats" /> </td> <td width="50%" align="center"> <img src="https://streak-stats.demolab.com/?user=NandaAungShine&theme=tokyonight&hide_border=true&background=0a0a1a&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&stroke=00D4FF&currStreakNum=e0e0e0&sideNums=e0e0e0" width="100%" alt="GitHub Streak" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NandaAungShine&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0a0a1a&title_color=00D4FF&text_color=e0e0e0" width="60%" alt="Top Languages" /> </td> </tr> </table><!-- ============================================================ 7. TROPHIES + QUOTE + CONTRIBUTED REPO ============================================================ --><h2 align="center">🏆 GitHub Trophies</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NandaAungShine&theme=neon&no-frame=true&no-bg=true&margin-w=6" alt="Trophies" /> </p><h2 align="center">✍️ Random Dev Quote</h2> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote" /> </p><h2 align="center">🔝 Top Contributed Repo</h2> <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=NandaAungShine&limit=5&theme=prussian&combine_all_yearly_contributions=true" alt="Top Contributed" /> </p><!-- ============================================================ 8. CONNECT WITH ME (BIG BUTTONS) ============================================================ --><h2 align="center">🤝 Connect with Me</h2><p align="center"> <a href="https://www.linkedin.com/in/n-4-nda-536375379?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" width="150" /> </a> <a href="https://t.me/hiitm" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30" alt="Telegram" width="150" /> </a> <a href="https://github.com/NandaAungShine" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub" width="150" /> </a> <a href="mailto:nandaaungshine7@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Gmail" width="150" /> </a> </p><!-- ============================================================ 9. FOOTER WAVE + ANIMATED QUOTE ============================================================ --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave" /> </p><p align="center"> <i> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=%22Code.+Design.+Secure.%22;%22Building+the+future%2C+one+line+at+a+time.%22;%22Always+learning%2C+always+evolving.%22" alt="Typing Footer" /> </i> </p><!-- ============================================================ CREDITS ============================================================ --><!-- 🛠️ Built with: - GitHub Readme Stats : https://github.com/anuraghazra/github-readme-stats - GitHub Streak Stats : https://github.com/DenverCoder1/github-readme-streak-stats - GitHub Activity Graph : https://github.com/Ashutosh00710/github-readme-activity-graph - Typing SVG : https://github.com/DenverCoder1/readme-typing-svg - Capsule Render : https://github.com/kyechan99/capsule-render - GPRM : https://gprm.itsvg.in -->
