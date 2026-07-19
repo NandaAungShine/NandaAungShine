@@ -1,52 +1,66 @@
 # Hi there, I'm Nanda Aung Shine 👋
 ### Junior Full-Stack Developer & UI/UX Designer | Offensive Security Enthusiast
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Main%20Focus-Full--Stack%20%26%20Cybersecurity-0052CC?style=for-the-badge&logoColor=white" />
+</p>
+
 ---
 
-- 👨‍💻 I’m currently building awesome web applications and digital brands at **AE Creative Lab**.
-- 🚀 Expanding my technical skills into **Flutter** for cross-platform mobile development.
-- 🎯 Deeply interested in **Offensive Cybersecurity**, penetration testing, and ethical hacking.
+### 🚀 About Me
+- 🌐 Focused on building scalable remote web applications and highly functional user interfaces.
+- 📱 Expanding technical skills into **Flutter** for cross-platform mobile app development.
+- 🛡️ Deeply passionate about **Offensive Cybersecurity**, including ethical hacking and penetration testing.
 - 🎓 Pursuing a **Bachelor of Science in Computer Science**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### 💻 Development & Design
+#### 💻 Frontend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/UI/UX-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-#### 🛡️ OS & Cybersecurity Tools
+#### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-🛡️-blue?style=flat-square" alt="Parrot OS" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Nmap-Network-lightgrey?style=flat-square" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-Framework-black?style=flat-square" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+#### 🎨 Design & Prototyping
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+#### 🛡️ OS & Security Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Parrot%20OS-🛡️-0052CC?style=for-the-badge" alt="Parrot OS" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Nmap-Network-lightgrey?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-Framework-black?style=for-the-badge" alt="Metasploit" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics (Blue Theme)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanda-tech&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanda-tech&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
